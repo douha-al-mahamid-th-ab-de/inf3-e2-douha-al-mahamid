@@ -1,0 +1,15 @@
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/rgb-color.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/rgb-color_test.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/edit_cache.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/rebuild_cache.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/list_install_components.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/install.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/install/local.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/CMakeFiles/install/strip.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/doctest_with_main.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/edit_cache.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/rebuild_cache.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/list_install_components.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/install.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/install/local.dir
+D:/Meds/Semester_3/informatik_3/e3-task/build/_deps/doctest-build/CMakeFiles/install/strip.dir
